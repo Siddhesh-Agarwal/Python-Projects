@@ -1,3 +1,4 @@
+# Libraries required
 import tkinter
 import tkinter.messagebox
 import pickle
@@ -5,7 +6,8 @@ import pickle
 def App():
     root = tkinter.Tk()
     root.title("To-Do List")
-
+    
+    # Adding Task
     def add_task():
         task = entry_task.get()
         if task != "":
@@ -13,7 +15,8 @@ def App():
             entry_task.delete(0, tkinter.END)
         else:
             tkinter.messagebox.showwarning("Warning!", "You must enter a task")
-
+ 
+    # Deleting Task
     def delete_task():
         try:
             task_index = listbox_tasks.curselection()[0]
@@ -21,6 +24,7 @@ def App():
         except:
             tkinter.messagebox.showwarning("Warning!", "You must select a task")
 
+    # Lodaing tasks from binary fle
     def load_tasks():
         try:
             tasks = pickle.load(open("tasks.dat", "rb"))
@@ -30,6 +34,7 @@ def App():
         except:
             tkinter.messagebox.showwarning("Warning!", "Cannot find tasks.dat")
 
+    # Saving tasks to binary file
     def save_tasks():
         try:
             tasks = listbox_tasks.get(0, listbox_tasks.size())
@@ -52,5 +57,6 @@ def App():
 
     root.mainloop()
 
+# Driver program
 if __name__ == "__main__":
     App()
