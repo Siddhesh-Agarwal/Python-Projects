@@ -1,3 +1,8 @@
+"""
+THis program allows the user to select a text file from his/her device.
+Then the program will read out the contents of the file.
+"""
+
 # Libraries Required
 import tkinter as tk
 from tkinter.ttk import *
