@@ -1,3 +1,9 @@
+"""
+This is is a To-Do list made with tkinter.
+The code for To-Do List which will create a tasks.dat file after running for the first time.
+The "load" button will load details from the tasks.dat file to the program and the "save" button will upload it.
+"""
+
 # Libraries required
 import tkinter
 import tkinter.messagebox
