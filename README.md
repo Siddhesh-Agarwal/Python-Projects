@@ -8,10 +8,10 @@ ___________________________________________________________
 
 ## Table of Contents
 ### Tkinter
-* [Digital Clock](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/code/Clock/DigitalClock.py)
-* [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/code/Dice_simulator/simulator.py)
-* [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/code/File%20Reader/file_reader.py)
-* [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/code/TODO%20List/ToDoList.py)
+* [Digital Clock](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Clock)
+* [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Dice_simulator)
+* [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/File%20Reader)
+* [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/TODO%20List)
 
 ### Streamlit
 * [BMI Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/BMI_Calculator)
