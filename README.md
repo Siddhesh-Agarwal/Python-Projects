@@ -17,7 +17,7 @@ ___________________________________________________________
 ## How to contribute
 Contributions are very welcome
 * Create a pull request to add code(with necessary files)
-* Your name will be added to [contributors.md]()
+* Your name will be added to [Contributors.md](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/Contributors.md)
 
 ___________________________________________________________
 
