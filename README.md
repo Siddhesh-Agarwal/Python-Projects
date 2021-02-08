@@ -14,7 +14,7 @@ ___________________________________________________________
 * [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/code/TODO%20List/ToDoList.py)
 
 ### Streamlit
-* [BMI Calculator]()
+* [BMI Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/BMI_Calculator)
 * [CO2 Emmission Predictor]()
 
 ___________________________________________________________
