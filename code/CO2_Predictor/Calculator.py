@@ -14,7 +14,7 @@ def CO2_Predictor(weight, volume):
     predictedCO2 = regr.predict([[weight, volume]])[0]
     return predictedCO2
 
-st.title('AI Services')
+st.title('Python Projects by Siddhesh-Agarwal')
 st.header('CO2 Emmision predictor')
 st.info('''Just enter the weight and fuel displacement of your car and we will predict the CO2
 emmitted by your car.''')
