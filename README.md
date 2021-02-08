@@ -15,7 +15,9 @@ ___________________________________________________________
 ___________________________________________________________
 
 ## How to contribute
-* Contributions are very welcome
+Contributions are very welcome
+* Create a pull request to add code(with necessary files)
+* Your name will be added to [contributors.md]()
 
 ___________________________________________________________
 
