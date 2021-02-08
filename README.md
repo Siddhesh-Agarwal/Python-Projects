@@ -1,5 +1,5 @@
 # Python-Projects
-A collection of many small projects in python
+A collection of large variety of projects in python
 ___________________________________________________________
 
 ## Introduction
