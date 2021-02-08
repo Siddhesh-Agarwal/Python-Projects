@@ -7,10 +7,15 @@ This [Repository](https://github.com/Siddhesh-Agarwal/Python-Projects) is meant 
 ___________________________________________________________
 
 ## Table of Contents
+### Tkinter
 * [Digital Clock](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/code/Clock/DigitalClock.py)
 * [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/code/Dice_simulator/simulator.py)
 * [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/code/File%20Reader/file_reader.py)
 * [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/code/TODO%20List/ToDoList.py)
+
+### Streamlit
+* [BMI Calculator]()
+* [CO2 Emmission Predictor]()
 
 ___________________________________________________________
 
