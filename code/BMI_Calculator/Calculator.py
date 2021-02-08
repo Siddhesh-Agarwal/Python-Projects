@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('AI Services')
+st.title('Python Projects by Siddhesh-Agarwal')
 st.header('BMI Calculator')
 
 # Weight of user
