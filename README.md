@@ -3,7 +3,7 @@ A collection of large variety of projects in python
 ___________________________________________________________
 
 ## Introduction
-This [Repository](https://github.com/Siddhesh-Agarwal/Python-Projects) is meant to contain many small projects that can be made in python.
+This [Repository](https://github.com/Siddhesh-Agarwal/Python-Projects) is meant to contain a large variety of projects that can be made in python 3.
 ___________________________________________________________
 
 ## Table of Contents
