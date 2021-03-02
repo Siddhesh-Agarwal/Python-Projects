@@ -13,6 +13,7 @@ ___________________________________________________________
 * [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Dice_simulator)
 * [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/File%20Reader)
 * [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/TODO%20List)
+* [Scientific calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/Calculator)
 
 ### Streamlit
 * [BMI Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/BMI_Calculator)
