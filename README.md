@@ -9,11 +9,12 @@ ___________________________________________________________
 
 ## Table of Contents
 ### Tkinter
+* [Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Calculator)
 * [Digital Clock](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Clock)
 * [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Dice_simulator)
 * [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/File%20Reader)
 * [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/TODO%20List)
-* [Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Calculator)
+* [Typing Speed Test](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Typing_Speed)
 
 ### Streamlit
 * [BMI Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/BMI_Calculator)
