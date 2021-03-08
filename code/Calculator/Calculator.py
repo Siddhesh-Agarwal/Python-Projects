@@ -8,6 +8,9 @@ convert_constant = '1'
 global inverse_convert_constant
 inverse_convert_constant = '1'
 
+def rgb_to_hex(r, g, b):
+    return f'#{r:02x}{g:02x}{b:02x}'
+
 # Button Design
 btn_params = {
     'padx': 16,
@@ -19,14 +22,19 @@ btn_params = {
     'width': 2,
     'height': 2,
     'relief': 'flat',
-    'activebackground': 'gray12'
+    'activebackground': rgb_to_hex(52, 152, 235)
 }
 
-# defining class Calculator
+# Mathematical functions
+def curt(n):
+    return pow(n, 1/3)
+
+################################
+##      Class Calculator      ##
+################################
 class Calculator:
     def __init__(self, master):
         self.expression = ""
-        self.recall = ""
         self.sum_up = ""
         self.text_input = tk.StringVar()
         self.master = master
@@ -44,12 +52,11 @@ class Calculator:
         self.btn_del.configure(activebackground = "#B22222", bg = '#B22222', foreground = '#FFFFFF')
         self.btn_del.grid(row = 0, column = 1)
 
-        self.btn_clear_all = tk.Button(bottom_frame, btn_params, text = "CE", command = self.btn_clear_all)
-        self.btn_clear_all.configure(activebackground = "#B22222", bg = '#B22222', foreground = '#FFFFFF')
-        self.btn_clear_all.grid(row = 0, column = 2)
+        self.btn_sqrt = tk.Button(bottom_frame, btn_params, text="√", command=lambda: self.btn_click('sqrt('))
+        self.btn_sqrt.grid(row = 0, column = 2)
 
-        self.btn_reciprocal = tk.Button(bottom_frame, btn_params, text = "1/x", command = lambda: self.btn_click('1/'))
-        self.btn_reciprocal.grid(row = 0, column = 3)
+        self.btn_curt = tk.Button(bottom_frame, btn_params, text = u"\u00B3√ ", command = lambda: self.btn_click('curt('))
+        self.btn_curt.grid(row = 0, column = 3)
 
         self.btn_open_brack = tk.Button(bottom_frame, btn_params, text = "(", command = lambda: self.btn_click('('))
         self.btn_open_brack.grid(row = 0, column = 4)
@@ -57,15 +64,15 @@ class Calculator:
         self.btn_close_brack = tk.Button(bottom_frame, btn_params, text = ")", command = lambda: self.btn_click(')'))
         self.btn_close_brack.grid(row = 0, column = 5)
 
-        self.btn_clear = tk.Button(bottom_frame, btn_params, text = "AC", command = self.btn_clear_all)
+        self.btn_clear = tk.Button(bottom_frame, btn_params, text = "CE", command = self.btn_clear_all)
         self.btn_clear.configure(activebackground = "#A5A5A5", bg = '#A5A5A5', foreground = 'black')
         self.btn_clear.grid(row = 0, column = 6)
 
-        self.btn_change_sign = tk.Button(bottom_frame, btn_params, text = "+/-", command = self.change_signs)
+        self.btn_change_sign = tk.Button(bottom_frame, btn_params, text = "C", command = self.btn_clear)
         self.btn_change_sign.configure(activebackground = "#A5A5A5", bg = '#A5A5A5', foreground = 'black')
         self.btn_change_sign.grid(row = 0, column = 7)
 
-        self.btn_change_sign = tk.Button(bottom_frame, btn_params, text = "%", command = self.change_signs)
+        self.btn_change_sign = tk.Button(bottom_frame, btn_params, text = "+/-", command = self.change_signs)
         self.btn_change_sign.configure(activebackground = "#A5A5A5", bg = '#A5A5A5', foreground = 'black')
         self.btn_change_sign.grid(row = 0, column = 8)
 
@@ -110,8 +117,8 @@ class Calculator:
         self.btn_Rad = tk.Button(bottom_frame, btn_params, text = "Rad", command = self.convert_rad)
         self.btn_Rad.grid(row = 2, column = 2)
 
-        self.btn_sqrt = tk.Button(bottom_frame, btn_params, text="sqrt", command=lambda: self.btn_click('sqrt('))
-        self.btn_sqrt.grid(row = 2, column = 3)
+        self.btn_reciprocal = tk.Button(bottom_frame, btn_params, text = "1/x", command = lambda: self.btn_click('1/'))
+        self.btn_reciprocal.grid(row = 2, column = 3)
 
         self.btn_abs = tk.Button(bottom_frame, btn_params, text = "|x|", command = lambda: self.btn_click('abs('))
         self.btn_abs.grid(row = 2, column = 4)
@@ -245,11 +252,13 @@ class Calculator:
                 self.text_input.set(self.sum_up)
                 self.expression = self.sum_up
                 
-# Driver
+################
+##   Driver   ##
+################
 if __name__ == '__main__':
-  root = tk.Tk()
-  b = Calculator(root)
-  root.title("Scientific Calculator")
-  root.geometry("650x465")
-  root.resizable(0, 0)
-  root.mainloop()
+    root = tk.Tk()
+    b = Calculator(root)
+    root.title("Scientific Calculator")
+    root.geometry("650x465")
+    root.resizable(0, 0)
+    root.mainloop()
