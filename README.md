@@ -1,6 +1,8 @@
 # Python-Projects
 A collection of large variety of projects in python.
 Making GitHub a better place, one pull request at a time.
+
+![](mainpic.jpg)
 ___________________________________________________________
 
 ## Introduction
