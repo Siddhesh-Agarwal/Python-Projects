@@ -2,7 +2,7 @@
 A collection of large variety of projects in python.
 Making GitHub a better place, one pull request at a time.
 
-![<img width="250"/](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/MainPic.jpg)
+![<img width="550"/](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/MainPic.jpg)
 ___________________________________________________________
 
 ## Introduction
