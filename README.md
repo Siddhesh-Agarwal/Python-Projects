@@ -3,7 +3,7 @@ A collection of large variety of projects in python.
 Making GitHub a better place, one pull request at a time.
 
 <--- ![<Main Logo](https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/MainPic.jpg =1080x480) --->
-<img src="https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/MainPic.jpg" width="200"/>
+<img src="https://github.com/Siddhesh-Agarwal/Python-Projects/blob/main/MainPic.jpg" width="1080"/>
 ___________________________________________________________
 
 ## Introduction
