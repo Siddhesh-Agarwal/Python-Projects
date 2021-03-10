@@ -8,6 +8,13 @@ This [Repository](https://github.com/Siddhesh-Agarwal/Python-Projects) is meant 
 ___________________________________________________________
 
 ## Table of Contents
+### Compiler-based
+* [pi value calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/pi_Value_Calculator)
+
+### Streamlit
+* [BMI Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/BMI_Calculator)
+* [CO2 Emmission Predictor](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/CO2_Predictor)
+
 ### Tkinter
 * [Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Calculator)
 * [Digital Clock](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Clock)
@@ -16,12 +23,6 @@ ___________________________________________________________
 * [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/TODO%20List)
 * [Typing Speed Test](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Typing_Speed)
 
-### Streamlit
-* [BMI Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/BMI_Calculator)
-* [CO2 Emmission Predictor](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/CO2_Predictor)
-
-### Compiler-based
-* [pi value calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/pi_Value_Calculator)
 ___________________________________________________________
 
 ## How to contribute
