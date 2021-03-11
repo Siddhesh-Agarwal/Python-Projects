@@ -24,6 +24,7 @@ ___________________________________________________________
 * [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/File%20Reader)
 * [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/TODO%20List)
 * [Typing Speed Test](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Typing_Speed)
+* [Notepad](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Notepad)
 
 ___________________________________________________________
 
