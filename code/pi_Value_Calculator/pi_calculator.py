@@ -6,17 +6,18 @@
 ##  accuracy of program increases with each iteration( i.e from loop=3 )      ##
 ##  READ MORE: http://mathforum.org/library/drmath/view/65244.html            ##
 ################################################################################
+from math import sin
 
-loop = int(input("number of times loop needs to be executed: "))
-def pi_value(n):
-    pi = 3
+def pi(n):
+    pi = 3                   # No, I am not joking
     for a in range(n):
-        pi += m.sin(pi)
-        if m.sin(pi) == 0:
+        pi += sin(pi)
+        if sin(pi) == 0:     # Value wouldn't increase since, sin(pi) = 0
             break
     return pi
 
-print("pi value (by calculations): ", pi_value(loop) )
+loop = int(input("number of times loop needs to be executed: "))
+print("pi value (by calculations): ", pi(loop) )
 
-import math as m
-print("pi value (by math module):  ", m.pi)
+from math import pi          # Displaying actual value of pi 
+print("pi value (by math module):  ", pi)
