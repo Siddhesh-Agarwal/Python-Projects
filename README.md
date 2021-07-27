@@ -23,7 +23,7 @@ ___________________________________________________________
 * [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Dice_simulator)
 * [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/File%20Reader)
 * [Notepad](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Notepad)
-* [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/TODO%20List)
+* [ToDo List](https://github.com/Siddhesh-Agarwal/TODO-List)
 * [Typing Speed Test](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Typing_Speed)
 
 ___________________________________________________________
