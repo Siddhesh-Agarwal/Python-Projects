@@ -18,7 +18,7 @@ ___________________________________________________________
 * [CO2 Emmission Predictor](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/CO2_Predictor)
 
 ### Tkinter
-* [Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Calculator)
+* [Calculator](https://github.com/Siddhesh-Agarwal/calculaTHOR)
 * [Digital Clock](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Clock)
 * [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Dice_simulator)
 * [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/File%20Reader)
