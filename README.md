@@ -16,6 +16,7 @@ ___________________________________________________________
 ### Streamlit
 * [BMI Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Streamlit/BMI-Calculator)
 * [CO2 Emmission Predictor](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Streamlit/CO2-Predictor)
+* [Password Generator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Streamlit/Password-Generator)
 
 ### Tkinter
 * [Calculator](https://github.com/Siddhesh-Agarwal/calculaTHOR)
