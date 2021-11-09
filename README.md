@@ -11,20 +11,20 @@ ___________________________________________________________
 
 ## Table of Contents
 ### Compiler-based
-* [pi value calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/pi_Value_Calculator)
+* [pi value calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Compiler-Based/pi_Value_Calculator)
 
 ### Streamlit
-* [BMI Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/BMI_Calculator)
-* [CO2 Emmission Predictor](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/CO2_Predictor)
+* [BMI Calculator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Streamlit/BMI-Calculator)
+* [CO2 Emmission Predictor](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Streamlit/CO2-Predictor)
 
 ### Tkinter
 * [Calculator](https://github.com/Siddhesh-Agarwal/calculaTHOR)
-* [Digital Clock](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Clock)
-* [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Dice_simulator)
-* [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/File%20Reader)
-* [Notepad](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Notepad)
+* [Digital Clock](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/Clock)
+* [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/Dice-Simulator)
+* [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/File-Reader)
+* [Notepad](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/Notepad)
 * [ToDo List](https://github.com/Siddhesh-Agarwal/TODO-List)
-* [Typing Speed Test](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Typing_Speed)
+* [Typing Speed Test](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/Typing-Speed-Test)
 
 ___________________________________________________________
 
