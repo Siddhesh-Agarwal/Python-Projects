@@ -23,7 +23,7 @@ ___________________________________________________________
 * [Dice Simuator](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/Dice-Simulator)
 * [File Reader](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/File-Reader)
 * [Notepad](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/Notepad)
-* [ToDo List](https://github.com/Siddhesh-Agarwal/TODO-List)
+* [ToDo List](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/ToDo-List)
 * [Typing Speed Test](https://github.com/Siddhesh-Agarwal/Python-Projects/tree/main/code/Tkinter/Typing-Speed-Test)
 
 ___________________________________________________________
